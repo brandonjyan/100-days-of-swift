@@ -1,10 +1,10 @@
 # Project 1 - Storm Viewer
 
-Table of storm images
+Using UITableViewController to create a table of images. Each cell of the table displays an image when pressed.
 
 ## Concepts
 
-View Controllers, Storyboard, FileManager
+View Controllers, Storyboard, FileManager, UIImage
 
 ## Screenshots
 
