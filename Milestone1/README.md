@@ -7,5 +7,4 @@ Using UITableViewController to create a table of flags. Each cell of the table d
 <p float="left">
   <img src="Screenshots/screenshot1.png" width="500" />
   <img src="Screenshots/screenshot2.png" width="500" /> 
-  <img src="Screenshots/screenshot3.png" width="500" /> 
 </p>
