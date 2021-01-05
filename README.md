@@ -2,12 +2,14 @@
 Projects from Paul Hudson's 100 Days of Swift: 
 https://www.hackingwithswift.com/100
 
-## Preview
+## Table of Contents
 
 Projects                                         | Screenshots 
 ------------                                     |----------------
-[Project 1](Project1) - *Storm Viewer* <br/><sub> View Controllers, Storyboard, FileManager </sub> | <p float="left"> <img src="Project1/Screenshots/screenshot1.png" width="150" /> <img src="Project1/Screenshots/screenshot2.png" width="150" /> </p>
+[Project 1](Project1) - *Storm Viewer* <br/> <sub> View Controllers, Storyboard, FileManager, UIImage </sub> | <p float="left"> <img src="Project1/Screenshots/screenshot1.png" width="150" /> <img src="Project1/Screenshots/screenshot2.png" width="150" /> </p>
 
-[Project 2](Project2) - *Guess the Flag* <br/>(with challenges)                                         <br/><sub> UIButton, CALayer, IBAction                                             </sub> | ![screen1](02-Project2/screenshots/small/screen01.png) |
-[Project 3](Project3) - *Social Media* <br/>(with challenges) <br/>(base: project 1)                      <br/><sub> UIBarButtonItem, UIActivityController                                   </sub> | ![screen1](03-Project3/screenshots/small/screen01.png) |
-[Milestone 1](Milestone1) - *Flags of the World*                                 <br/><sub>                                                                         </sub> | ![screen1](04-Milestone-Projects1-3/screenshots/small/screen01.png) ![screen2](04-Milestone-Projects1-3/screenshots/small/screen02.png) |
+[Project 2](Project2) - *Guess the Flag* <br/> <sub> UIButton, CALayer, IBAction, UIAlertController</sub> | <p float="left"> <img src="Project2/Screenshots/screenshot1.png" width="150" /> <img src="Project2/Screenshots/screenshot2.png" width="150" /> </p>
+
+[Project 3](Project3) - *Social Media* <br/> <sub> UIBarButtonItem, UIActivityController </sub> | | <p float="left"> <img src="Project3/Screenshots/screenshot1.png" width="150" /> </p>
+
+[Milestone 1](Milestone1) - *Flags of the World* <br/> |  <p float="left"> <img src="Milestone1/Screenshots/screenshot1.png" width="150" /> <img src="Milestone1/Screenshots/screenshot2.png" width="150" /> </p>
