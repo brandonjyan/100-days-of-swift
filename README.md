@@ -4,7 +4,7 @@ https://www.hackingwithswift.com/100
 
 ## Preview
 
-Projects / Topics &nbsp; &nbsp; &nbsp; &nbsp;   |  Description                                          | Screenshots &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+Projects / Topics &nbsp; &nbsp; &nbsp; &nbsp;   |  Description                                          | Screenshots &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 ---                           |---                                                    |---
 [Project 1](Project1) - *Storm Viewer* <br/><sub> View Controllers, Storyboard, FileManager </sub> | Using UITableViewController to create a table of images. Each cell of the table displays an image when pressed. | <p float="left"> <img src="Project1/Screenshots/screenshot1.png" width="150" /><img src="Project1/Screenshots/screenshot2.png" width="150" /> </p>
 
